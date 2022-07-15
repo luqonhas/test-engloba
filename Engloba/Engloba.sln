@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Engloba.Shared", "Engloba.Shared\Engloba.Shared.csproj", "{EC3B9A19-B04C-4847-B919-7B21F3E616FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Engloba.Domain", "Engloba.Domain\Engloba.Domain.csproj", "{36116D28-C69D-47EC-9268-38164F144AEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC3B9A19-B04C-4847-B919-7B21F3E616FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC3B9A19-B04C-4847-B919-7B21F3E616FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC3B9A19-B04C-4847-B919-7B21F3E616FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC3B9A19-B04C-4847-B919-7B21F3E616FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36116D28-C69D-47EC-9268-38164F144AEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36116D28-C69D-47EC-9268-38164F144AEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36116D28-C69D-47EC-9268-38164F144AEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36116D28-C69D-47EC-9268-38164F144AEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {679204E7-A4F6-4703-B8A9-9352B36597AD}
+	EndGlobalSection
+EndGlobal
